@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-align: center;
+}
+.biaoti {
+	font-family: "黑体";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	color: #3399cc;
+	background-position: center center;
+}
+.denglu {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	color: #0099cc;
+	padding-top: 5px;
+	padding-right: 7px;
+	padding-bottom: 3px;
+	padding-left: 7px;
+	background-color: #e0f0f9;
+}
+
